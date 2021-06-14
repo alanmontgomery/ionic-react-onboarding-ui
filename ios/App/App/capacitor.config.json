@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.app",
+	"appName": "ionic-react-onboarding-ui",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,52 @@
+ion-slides {
+
+	height: 100%;
+}
+
+.slide-grid {
+
+	height: 100%;
+}
+
+.slide-main-image {
+
+	height: 5rem !important;
+}
+
+.slide-buttons {
+
+	position: absolute;
+	bottom: 2rem;
+	z-index: 10;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	width: 100%;
+	align-items: center;
+	align-content: center;
+}
+
+.slide-content-container {
+
+	margin-top: -4rem;
+}
+
+.slide-content {
+	
+	margin: 0 auto;
+	/* margin-top: 5rem; */
+	color: var(--ion-color-primary);
+	/* background-color: var(--ion-color-primary); */
+	/* color: white; */
+	border: 2px solid rgb(228, 228, 228);
+	border-radius: 15px;
+	padding: 3rem;
+	/* padding-left: 3rem; */
+	/* padding-right: 3rem; */
+}
+
+.slide-content p {
+
+	color: rgb(161, 161, 161);
+}
